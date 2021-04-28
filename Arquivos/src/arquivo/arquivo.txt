@@ -1,0 +1,12 @@
+meu texto no arquivo
+MInha segunda linhaTexto da minha Linha 3
+Texto da minha Linha 4
+Texto da minha Linha 5
+Texto da minha Linha 6
+Texto da minha Linha 7
+Texto da minha Linha 8
+Texto da minha Linha 9
+Texto da minha Linha 10
+Edmar;30;edmar@redekrill.com
+jose;30;jose@redekrill.com
+ze;30;ze@redekrill.com
